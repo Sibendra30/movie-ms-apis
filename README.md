@@ -116,4 +116,4 @@ run ***mvn clean install***
 
 ### Run Application using Docker Image 
 1. *docker pull sibendra30/movie-ms-apis:1.0*
-2. *docker container run -p 8080:8080 movie-ms-apis:1.0 -t {Name of running instance}*
+2. *docker container run --publish 8080:8080 --name MovieMS-1 sibendra30/movie-ms-apis:1.0*
