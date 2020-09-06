@@ -1,0 +1,41 @@
+{
+	"totalCount": 4,
+	"movies": [
+		{
+			"id": "1",
+			"name": "Island",
+			"releaseYear": "2019",
+			"genre": "Drama",
+			"director": "Hiro Murai",
+			"rating": 6.7,
+			"length": 55
+		},
+		{
+			"id": "2",
+			"name": "Notebook",
+			"releaseYear": "2018",
+			"genre": "Romance",
+			"director": "Nitin Kakkar",
+			"rating": 8.7,
+			"length": 112
+		},
+		{
+			"id": "3",
+			"name": "Alvin and the Chipmunks",
+			"releaseYear": "2011",
+			"genre": "Animation",
+			"director": "Mike Mitchell",
+			"rating": 4.3,
+			"length": 87
+		},
+		{
+			"id": "4",
+			"name": "Horror-Drama",
+			"releaseYear": "2009",
+			"genre": "Hrror",
+			"director": "Romy",
+			"rating": 8.9,
+			"length": 130
+		}
+	]
+}
