@@ -114,3 +114,6 @@ run ***mvn clean install***
 2.  Maven must be installed.
 3. Corporate proxy should be taken care of
 
+### Docker Image 
+*docker pull sibendra30/movie-ms-apis:1.0*
+*docker container run -p 8080:8080 movie-ms-apis:1.0 -t {Name of running instance}*
