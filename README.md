@@ -78,7 +78,7 @@ Sample:
 
 **Response Body:**
 Response Status: 204
-NO_CONTENT
+Response Body: NO_CONTENT
 
 4. ***GET /movies/{movieId} -*** This API fetches the movie details with movie Id.
  
